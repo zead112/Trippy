@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.li{
+    flex-grow:2;
+   text-align:center;
+   margin:4px;
+   border-radius: 3px;
+   padding:6px;
+   transition: 0.5s;
+}
+.li{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.li:hover{
+    background-color: rgb(71, 148, 179);
+    color: white;
+}
